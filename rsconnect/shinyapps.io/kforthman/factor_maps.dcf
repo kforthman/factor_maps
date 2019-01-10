@@ -1,0 +1,12 @@
+name: factor_maps
+title: factor_maps
+username:
+account: kforthman
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 620614
+bundleId: 1805775
+url: https://kforthman.shinyapps.io/factor_maps/
+when: 1547076577.79447
+asMultiple: FALSE
+asStatic: FALSE
